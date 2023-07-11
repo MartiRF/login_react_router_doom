@@ -1,0 +1,11 @@
+-instalar tailwindsCSS
+- instalar firebase
+    -crear .env y configurar
+-instalar react-router-dom
+    -crear Login,Register,Home
+    -implementar Routes y Routes
+-Crear el Context
+    -authContext.js
+        -createContext
+        -AuthProvider
+            return context.Provider{children}
